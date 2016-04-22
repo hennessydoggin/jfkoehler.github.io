@@ -1,0 +1,131 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "### Draft 1: Computing Exam\n",
+    "\n",
+    "Daniel, I want you to use this exam as an opportunity to get more familiar with the iPython notebooks.  Initially, I would like you to understand how to use the markdown cells to write text, and how to import images into the notebook.  Also, when writing your problems you will learn to use $\\LaTeX$ which is the preferred way to typeset mathematics."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 3,
+   "metadata": {
+    "collapsed": true
+   },
+   "outputs": [],
+   "source": [
+    "from IPython.display import display #this loads the display capabilities\n",
+    "from IPython.display import Image #this allows the importing of images"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 4,
+   "metadata": {
+    "collapsed": false
+   },
+   "outputs": [
+    {
+     "data": {
+      "text/html": [
+       "<img src=\"http://python.org/images/python-logo.gif\"/>"
+      ],
+      "text/plain": [
+       "<IPython.core.display.Image object>"
+      ]
+     },
+     "execution_count": 4,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "Image(url='http://python.org/images/python-logo.gif')"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "### Problem 2:\n",
+    "\n",
+    "If $f(x) = x \\sqrt{2x-3}$, then $f'(x) =$\n",
+    "\n",
+    "(A) $\\frac{3x-3}{\\sqrt{2x-3}}$\n",
+    "\n",
+    "(B) $\\frac{x}{\\sqrt{2x-3}}$\n",
+    "\n",
+    "(C) $\\frac{1}{\\sqrt{2x-3}}$\n",
+    "\n",
+    "(D) $\\frac{5x-6}{2\\sqrt{2x-3}}$"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "Input a picture of you answer here."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "### Problem 4:\n",
+    "\n",
+    "If $\\int_{a}^{b} f(x) dx = a + 2b$, then $\\int_{a}^{b}(f(x) + 5)dx = $"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "### Problem 5:\n",
+    "\n",
+    "The graph of $y = 3x^4 - 16x^3 + 24x^2 + 48$ is concave down for:"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "### Problem 7:\n",
+    "\n",
+    "$\\frac{d}{dx} \\cos^2 {x^3}=$"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {
+    "collapsed": true
+   },
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 2",
+   "language": "python",
+   "name": "python2"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 2
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython2",
+   "version": "2.7.11"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 0
+}

@@ -5,6 +5,10 @@
 Supplementary materials for:
 
 * Calculus I classes taught at **The New School**
+
+Notebooks available with **Binder** online:
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/jfkoehler/jfkoehler.github.io)
+
 * High School Algebra Materials for Students and Teachers  
 * Middle School Mathematics Materials for Students and Teachers
 

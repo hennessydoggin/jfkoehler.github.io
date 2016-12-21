@@ -9,11 +9,4 @@ Supplementary materials for:
 Notebooks available with **Binder** online:
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/jfkoehler/jfkoehler.github.io)
 
-* High School Algebra Materials for Students and Teachers  
-* Middle School Mathematics Materials for Students and Teachers
-
-### What For
-
-I am interested in establishing a larger community of users dedicated
-to supporting our students and teachers working in mathematics and science education around the world
-through freely available materials and open collaboration.
+* Jupyter notebooks with Python activities

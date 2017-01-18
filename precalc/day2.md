@@ -4,19 +4,20 @@
 Goals:
 
 * Deepen understanding of functions including quadratics
-* Connect functions with modeling real world data
-* Use Technology to find lines of best fit
+* Use measures of center and spread to describe data
+* Use technology to analyze data
 
 ---
 
 Readings:
 
+Statistics reading?
 
 ---
 
 **Assignment:**
 
-In class: Quadratics from Shell, Lines of Best Fit COMAP
+In class: Center and Spread from Shell, Quadratics from COMAP
 
 Homework:
 

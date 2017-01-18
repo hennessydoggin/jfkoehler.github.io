@@ -87,19 +87,19 @@ During the last two weeks of the semester, students are asked to provide feedbac
 
 | Date | Topic |
 | ----- | ----- |
-| 1.23 and 1.25   | Linear, Quadratic, and Exponential Functions |
+| 1.23 and 1.25   | Introducing Functions |
 | 1.30 and 2.1 | Data, Measures of Center and Spread |
 | 2.6 and 2.8    | Lines of Best Fit |
-| 2.13 and 2.15  | Periodic Models |
-| 2.22 and 2.27  | Summarizing our Models |
-| 3.1   |  Exam I |
-| 3.6 and 3.8  | Systems of Linear Equations |
+| 2.13 and 2.15  | Synthesizing Mathematical Models of Data |
+| 2.22 and 2.27  | Review and Exam |
+| 3.1   |  Systems of Linear Equations |
+| 3.6 and 3.8  | Intro to Matrices |
 | 3.13 and 3.15 | Functions and Data in Higher Dimensions | 
 | 3.27 and 3.29 | Matrices and Transformations |
-| 4.3 and 4.5 | Central Limit Theorem and Confidence Intervals |
-| 4.10 and 4.12 | Review and Exam II |
-| 4.17 and 4.19 | Project Introduction and Assignment |
-| 4.24 and 4.26 | Literature Review and Data Identification |
-| 5.1 and 5.3 | Data Analysis |
-| 5.8 and 5.10 | Conclusions and Further Work |
+| 4.3 and 4.5 | Review and Exam II |
+| 4.10 and 4.12 | Project Introduction and Assignment |
+| 4.17 and 4.19 | Literature Review and Data Identification |
+| 4.24 and 4.26 | Data Analysis |
+| 5.1 and 5.3 | Conclusions and Further work |
+| 5.8 and 5.10 | Final Review and Problems |
 | 5.15 | Presentations |

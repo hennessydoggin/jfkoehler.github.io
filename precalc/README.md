@@ -87,10 +87,10 @@ During the last two weeks of the semester, students are asked to provide feedbac
 
 | Date | Topic |
 | ----- | ----- |
-| [**WEEK 1**](jfkoehler.github.io/precalc/week1.md):      1.23 and 1.25   | Introducing Functions |
-| [**WEEK 2**](jfkoehler.github.io/precalc/week2.md):  1.30 and 2.1 | Data, Measures of Center and Spread |
-| [**WEEK 3**](jfkoehler.github.io/precalc/week3.md):  2.6 and 2.8    | Lines of Best Fit |
-| [**WEEK 4**](jfkoehler.github.io/precalc/week4.md):  2.13 and 2.15  | Synthesizing Mathematical Models of Data |
+| [**WEEK 1**](https://github.com/jfkoehler/jfkoehler.github.io/blob/master/precalc/week1.md):      1.23 and 1.25   | Introducing Functions |
+| [**WEEK 2**](https://github.com/jfkoehler/jfkoehler.github.io/blob/master/precalc/week2.md):  1.30 and 2.1 | Data, Measures of Center and Spread |
+| [**WEEK 3**](https://github.com/jfkoehler/jfkoehler.github.io/blob/master/precalc/week3.md):  2.6 and 2.8    | Lines of Best Fit |
+| [**WEEK 4**](https://github.com/jfkoehler/jfkoehler.github.io/blob/master/precalc/week4.md):  2.13 and 2.15  | Synthesizing Mathematical Models of Data |
 | 2.22 and 2.27  | Review and Exam |
 | 3.1   |  Systems of Linear Equations |
 | 3.6 and 3.8  | Intro to Matrices |

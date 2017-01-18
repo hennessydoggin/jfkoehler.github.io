@@ -1,4 +1,4 @@
-LMTH 2010: PRE-CALCULUS
+## LMTH 2010: PRE-CALCULUS
 
 ![](http://www.newschool.edu/edu-assets/imgs/tns-logo.png)
 

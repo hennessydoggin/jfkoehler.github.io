@@ -96,7 +96,7 @@ During the last two weeks of the semester, students are asked to provide feedbac
 | 3.6 and 3.8  | Systems of Linear Equations |
 | 3.13 and 3.15 | Functions and Data in Higher Dimensions | 
 | 3.27 and 3.29 | Matrices and Transformations |
-| 4.3 and 4.5 | Central Limit Theorem and Matrices |
+| 4.3 and 4.5 | Central Limit Theorem and Confidence Intervals |
 | 4.10 and 4.12 | Review and Exam II |
 | 4.17 and 4.19 | Project Introduction and Assignment |
 | 4.24 and 4.26 | Literature Review and Data Identification |

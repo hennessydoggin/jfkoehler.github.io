@@ -85,6 +85,9 @@ All assignments will be posted on canvas. You are to print out and submit a hard
 
 During the last two weeks of the semester, students are asked to provide feedback for each of their courses through an online survey. They cannot view grades until providing feedback or officially declining to do so. Course evaluations are a vital space where students can speak about the learning experience. It is an important process which provides valuable data about the successful delivery and support of a course or topic to both the faculty and administrators. Instructors rely on course rating surveys for feedback on the course and teaching methods, so they can understand what aspects of the class are most successful in teaching students, and what aspects might be improved or changed in future. Without this information, it can be difficult for an instructor to reflect upon and improve teaching methods and course design. In addition, program/department chairs and other administrators review course surveys. Instructions are available online at http://www.newschool.edu/provost/course-evaluations-student-instructions.pdf. 
 
+#### Outline
+---
+
 | Date | Topic |
 | ----- | ----- |
 | [**WEEK 1**](https://github.com/jfkoehler/jfkoehler.github.io/blob/master/precalc/week1.md):      1.23 and 1.25   | Introducing Functions |

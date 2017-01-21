@@ -1,5 +1,8 @@
 # UA 101: Math Patterns in Nature
 
+![](jfkoehler.github.io/math_patterns_in_nature/courant_header.png)
+
+
 **Instructor:** Dr. Jacob Frias Koehler
 
 **email:** jfk11@nyu.edu

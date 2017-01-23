@@ -41,9 +41,9 @@ We will make heavy use of technology in this class.  By the end of the class we 
 
 **Week 2**: 
 
-* Stephen Kern, *The Culture of Time and Space 1880 - 1914*, Cambridge, Mass.: Chatpter 1 and Chapter 6
-* Erik van der Vleuten, “Infrastructures and Societal Change: A View
-from the Large Technical Systems Field”, Technology Analysis & Strategic
+* Stephen Kern, *The Culture of Time and Space 1880 - 1914*, Cambridge, Mass.: Chapter 1 and Chapter 6
+* Erik van der Vleuten, *Infrastructures and Societal Change: A View
+from the Large Technical Systems Field*, Technology Analysis & Strategic
 Management 16:3 (2004), 395–414
 * Rem Koolhaus, *Delerious*
 * Stephen Otterman, *The Panorama* - introduction
@@ -62,46 +62,45 @@ Proposals due in class.
 
 **Week 5**
 
-* Paul Edwards, The Closed World: Computers and the Politics of Discourse in Cold
-War America (The MIT Press, 1996), ch. 1-4.
-* Manuel Delanda, War, chp tbd.
+* Paul Edwards, *The Closed World: Computers and the Politics of Discourse in Cold
+War America*, ch. 1-4.
+* Manuel Delanda, *War in the Age of Intelligent Machines*, chp tbd.
 * Peter Galison, Ontology of the Enemy
 
 **Week 6**
 
-* Light, Jennifer, “When Computers Were Women,” Technology and Culture 1999. 
-* Donna Harraway, Cyborg Manifesto
-* Thomas Laquer, Making Sex, chapter 1 and chapter 3
+* Light, Jennifer, *When Computers Were Women,* Technology and Culture 1999. 
+* Donna Harraway, *Cyborg Manifesto*
+* Thomas Laquer, *Making Sex*, chapter 1 and chapter 3
 
 **Week 7**
 
-* Jonathan Crary, Techniques of the Observer
-* Daston and Galison, Objectivity introduction and chapter 1
+* Jonathan Crary, *Techniques of the Observer*
+* Daston and Galison, *Objectivity* introduction and chapter 1
 
 **Week 8**
 
-* Rosalind Morris, The War Drive: Image Files Corrupted, Social Text 91, Vol. 25, No. 2, Summer 2007
+* Rosalind Morris, *The War Drive: Image Files Corrupted*, Social Text 91, Vol. 25, No. 2, Summer 2007
 * Shigeshisa Kuriyama, *The Expressiveness of Colors* 
 * Henning Schmidgen, *Pictures, preparations, and Living Processes. The Production of Immediate Visual Perception in late - 19th - Century Physiology.
 
 
 **Week 9**
 
-* Ceruzzi,	Paul,	“From	Scientific	Instrument	to	Everyday	Appliance:	the	
-Emergence	of	Personal	Computers,	1970-77,”	History	and	Technology
+* Ceruzzi,	Paul,	*From	Scientific	Instrument	to	Everyday	Appliance:	the	
+Emergence	of	Personal	Computers,	1970-77,*	History	and	Technology
 13(1996):1-31.
-* Turkle, Sherry. 1982. The Subjective Computer: A Study in the Psychology of Personal Computation. Social
+* Turkle, Sherry. 1982. *The Subjective Computer: A Study in the Psychology of Personal Computation.* Social
 Studies of Science 12 (2):173-205
-* John	Agar,	“What	Difference	Did	Computers	Make?”	Social	Studies	of	Science,	
+* John	Agar,	*What	Difference	Did	Computers	Make?* Social	Studies	of	Science,	
 36/6,	2006:	869-907.
 
 **Week 10**
 
-* Paul Edwards, A Vast Machine (MIT Press, 2010), chs. 7 (skim technical parts), 11-
+* Paul Edwards, *A Vast Machine* chs. 7 (skim technical parts), 11-
 13, 15, conclusion; 
-* Donald Mackenzie, Mechanizing proof: computing, risk, and trust. (MIT
-Press, 2004), ch. 4. 
-* John	Arquilla	and	David	Ronfeldt,		“Cyberwar	Is	Coming!”	and	Bruce	D.	
+* Donald Mackenzie, *Mechanizing proof: computing, risk, and trust.* , ch. 4. 
+* John	Arquilla	and	David	Ronfeldt,		*Cyberwar	Is	Coming!*	and	Bruce	D.	
 Berkowitz,	“Warfare	in	the	Information	Age”	in	In	Athena’s	Camp:	
 Preparing	for	Conflict	in	the	Information	Age	(1997)	at	
 http://www.rand.org/pubs/monograph_reports/MR880.html

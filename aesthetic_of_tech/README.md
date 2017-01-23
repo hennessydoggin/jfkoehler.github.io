@@ -18,6 +18,22 @@ to create.  Provisionally, these include wood, metal, photography, video, raspbe
 
 ---
 
+### Assignments
+
+*Readings*:
+Each week you will be asked to summarize and deepen a specific element of our readings.  You should prepare a single page of notes that highlight the important elements of your topic.  These weekly summaries will serve as notes for the class to share.  This work will comprise 50 percent of your final grade.
+
+*Final Work and Presentation*:
+Each student will be asked to propose, present for critique and discussion, and submit a final product of their design.  We will propose the project in Week 4, present our work to the class in week 12, and submit our work on the final day of classes for the semester.  The aim of these works will be targeted submission in a creative event in the discipline of your choice, including traditional academic conferences and or journals.  This work will comprise 50 percent of your final grade.
+
+---
+
+### Course Policiies
+
+We will make heavy use of technology in this class.  By the end of the class we expect that every student understands how to use a text editor to produce paper and web based documents.  Additionally, we will use computers to analyze textual, visual, and audio documents.  Students will be able to propose research projects that deepen an understanding through such analyses.
+
+---
+
 ### Outline
 
 **Week 1**: Introduction
@@ -44,33 +60,32 @@ Management 16:3 (2004), 395–414
 * Laura Mulvey, *Visual Pleasure and Narrative Cinema* 
 Proposals due in class.
 
-**Week 4**
+**Week 5**
 
 * Paul Edwards, The Closed World: Computers and the Politics of Discourse in Cold
 War America (The MIT Press, 1996), ch. 1-4.
 * Manuel Delanda, War, chp tbd.
 * Peter Galison, Ontology of the Enemy
 
-**Week 5**
+**Week 6**
 
 * Light, Jennifer, “When Computers Were Women,” Technology and Culture 1999. 
 * Donna Harraway, Cyborg Manifesto
 * Thomas Laquer, Making Sex, chapter 1 and chapter 3
 
-**Week 6**
+**Week 7**
 
 * Jonathan Crary, Techniques of the Observer
 * Daston and Galison, Objectivity introduction and chapter 1
-* Rosalind Morris, The War Drive: Image Files Corrupted, Social Text 91, Vol. 25, No. 2, Summer 2007
 
-**Week 7**
+**Week 8**
 
 * Rosalind Morris, The War Drive: Image Files Corrupted, Social Text 91, Vol. 25, No. 2, Summer 2007
 * Shigeshisa Kuriyama, *The Expressiveness of Colors* 
 * Henning Schmidgen, *Pictures, preparations, and Living Processes. The Production of Immediate Visual Perception in late - 19th - Century Physiology.
 
 
-**Week 8**
+**Week 9**
 
 * Ceruzzi,	Paul,	“From	Scientific	Instrument	to	Everyday	Appliance:	the	
 Emergence	of	Personal	Computers,	1970-77,”	History	and	Technology
@@ -80,7 +95,7 @@ Studies of Science 12 (2):173-205
 * John	Agar,	“What	Difference	Did	Computers	Make?”	Social	Studies	of	Science,	
 36/6,	2006:	869-907.
 
-**Week 9**
+**Week 10**
 
 * Paul Edwards, A Vast Machine (MIT Press, 2010), chs. 7 (skim technical parts), 11-
 13, 15, conclusion; 
@@ -91,25 +106,25 @@ Berkowitz,	“Warfare	in	the	Information	Age”	in	In	Athena’s	Camp:
 Preparing	for	Conflict	in	the	Information	Age	(1997)	at	
 http://www.rand.org/pubs/monograph_reports/MR880.html
 
-**Week 10**
+**Week 11**
 
 * Christopher Otter, *The Victorian Eye: A Political History of Light and Vision in Britain 1800-1910*.
 
-**Week 11**
+**Week 12**
 
 * Brian Larkin, *Signal and Noise: Media, Infrastructure, and Urban Cuture in Nigeria.
 
-**Week 12**
+**Week 13**
 
 * Keller Easterling, *Extrastatecraft*
 
-**Week 13**
+**Week 14**
 
 * Katheryn Hayles, *How we Became Posthuman*
 * Jerome Bruner, *The Process of Education*
 * Jake Kosek, *The Nature of the Bees: On the New Uses of the Honeybee*
 
-**Week 14**
+**Week 15**
 
 * Stephen Helmreich, *Alien Ocean: Anthropological Voyages in Microbial Seas*
 

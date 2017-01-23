@@ -14,17 +14,23 @@ objectivity, evidence, and truth.  By the end of the course, students should mak
 
 The material nature of this work is open, and can be a traditional written assignment or an artistic work of any media.  We will propse
 a direction for our work during Week 4 and continue to devote classtime to developing skills with a multitude of technologies in order 
-to create.  Provisionally, these include wood, metal, photography, video, raspberry pi, mathematics, and a variety of uses of computing technology.
+to create.  
+
+---
+
+### Structure
+
+We aim to have this class as a workshop to push our understanding of technology and media in our own work.  To begin, we will discuss the weeks readings and how they might contribute to our own work explicitly.  Next, we will dedicate a portion of time to familiarizing ourselves with some tools of textual analysis on the computer.  Finally, the end of class will be time for us to give status reports and receive feedback on our projects development.
 
 ---
 
 ### Assignments
 
 *Readings*:
-Each week you will be asked to summarize and deepen a specific element of our readings.  You should prepare a single page of notes that highlight the important elements of your topic.  These weekly summaries will serve as notes for the class to share.  This work will comprise 50 percent of your final grade.
+Each week you will be asked to summarize and deepen a specific element of our readings.  You should prepare a single page of notes that highlight the important elements of your topic.  
 
 *Final Work and Presentation*:
-Each student will be asked to propose, present for critique and discussion, and submit a final product of their design.  We will propose the project in Week 4, present our work to the class in week 12, and submit our work on the final day of classes for the semester.  The aim of these works will be targeted submission in a creative event in the discipline of your choice, including traditional academic conferences and or journals.  This work will comprise 50 percent of your final grade.
+Each student will be asked to propose, present for critique and discussion, and submit a final product of their design.  We will propose the project in Week 4, present our work to the class in week 12, and submit our work on the final day of classes for the semester.  The aim of these works will be targeted submission in a creative event in the discipline of your choice, including traditional academic conferences and or journals.  
 
 ---
 
@@ -41,8 +47,8 @@ We will make heavy use of technology in this class.  By the end of the class we 
 
 **Week 2**: 
 
-* Stephen Kern, *The Culture of Time and Space 1880 - 1914*, Cambridge, Mass.: Chapter 1 and Chapter 6
-* Rem Koolhaus, *Delerious*
+* Rosalind Morris, *The War Drive: Image Files Corrupted*, Social Text 91, Vol. 25, No. 2, Summer 2007
+* Rem Koolhaus, *Delerious* - selections
 * Stephen Otterman, *The Panorama* - introduction
 
 **Week 3**
@@ -76,7 +82,6 @@ the Divergence of Greek and Chinese Medicine, 153-192.
 
 **Week 8**
 
-* Rosalind Morris, *The War Drive: Image Files Corrupted*, Social Text 91, Vol. 25, No. 2, Summer 2007
 * Shigeshisa Kuriyama, *The Expressiveness of Colors* 
 * Henning Schmidgen, *Pictures, preparations, and Living Processes. The Production of Immediate Visual Perception in late - 19th - Century Physiology.
 

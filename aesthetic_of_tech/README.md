@@ -45,77 +45,78 @@ We will make heavy use of technology in this class.  By the end of the class we 
 **Week 1**: Introduction
 
 
-**Week 2**: 
+**Week 2**: New York City
 
 * Rosalind Morris, *The War Drive: Image Files Corrupted*, Social Text 91, Vol. 25, No. 2, Summer 2007
 * Rem Koolhaus, *Delerious* - selections
 * Stephen Otterman, *The Panorama* - introduction
 
-**Week 3**
+**Week 3**: Mechanical Vision in art and science
 
 * Jonathan Crary *Techniques of the Observer*
 * Walter Benjamin, *The Work of Art in the Age of Mechanical Reproduction*
 
-**Week 4**
+**Week 4**: Considering Media
 
 * Marshall MchLuhan, *Understanding Media* - Introduction, Medium is the Message, Media Hot and Cold
 * Laura Mulvey, *Visual Pleasure and Narrative Cinema* 
 * **Proposals due in class**.
 
-**Week 5**
+**Week 5**: Science, Vision, Objectivity
 
 * Lorraine Daston and Peter Galison, *Objectivity*, (selections from book)
 * Kuriyama, Shigehisa. *The Expressiveness of Colors.* In The Expressiveness of the Body and
 the Divergence of Greek and Chinese Medicine, 153-192.
 * Henning Schmidgen, *Pictures, Preparations, and Living Processes. The Production of Immediate Visual Perception in late-19th-Century Physiology.* In: Journal of the History of Biology, Jg. 37 (2004)
 
-**Week 6**
+**Week 6**: Gender, Sex, and Technology
 
 * Light, Jennifer, *When Computers Were Women,* Technology and Culture 1999. 
 * Donna Harraway, *Cyborg Manifesto*
 * Thomas Laquer, *Making Sex*, chapter 1 and chapter 3
 
-**Week 7**
+**Week 7**: Governance and Vision
 
 * Christopher Otter, *The Victorian Eye: A Political History of Light and Vision in Britain, 1800-1910,* (Chicago: University of Chicago, 2008)
 * Alan Sekula *The Body and the Archive*
 
-**Week 8**
+**Week 8**: Sensation and Vision
 
 * Shigeshisa Kuriyama, *The Expressiveness of Colors* 
-* Henning Schmidgen, *Pictures, preparations, and Living Processes. The Production of Immediate Visual Perception in late - 19th - Century Physiology.
+* Henning Schmidgen, *Pictures, preparations, and Living Processes. The Production of Immediate Visual Perception in late - 19th - Century Physiology*.
+* Michael Taussig, *Mimesis and Alterity*
 
 
-**Week 9**
+**Week 9**: Media and Empire
 
 * Chaudhary, Afterimage of Empire 
 * Brian Larkin, *Signal and Noise: Media, Infrastructure, and Urban Culture in Nigeria*. intro, chp 1 -3.
 
-**Week 10**
+**Week 10**: Sound
 
 * Friedrich Kittler, *Gramophone, Film, Typewriter*
 * Hillel Schwartz, *Making Noise*
 
-**Week 11**
+**Week 11**: Victorian Vision
 
 * Christopher Otter, *The Victorian Eye: A Political History of Light and Vision in Britain 1800-1910*.
 
-**Week 12**
+**Week 12**: Freud
 
-* Brian Larkin, *Signal and Noise: Media, Infrastructure, and Urban Cuture in Nigeria.*
+* Mary Ann Doane, *The Emergence of Cinematic Time*
+* Sigmund Freud, *Screen Memories, Project for a Scientific Psychology ,  Interpretation of Dreams and Three Essays on Sexuality,* in The Freud Reader, Peter Gay, ed. [New York:W.W. Norton and Company, 1995). 
 
-**Week 13**
+**Week 13**: Infrastructure
 
 * Keller Easterling, *Extrastatecraft*
 * Eyal Weisman, *Hollowland*
 
-**Week 14**
+**Week 14**: Post - Humanity
 
 * Katheryn Hayles, *How we Became Posthuman*
-* Jerome Bruner, *The Process of Education*
 * Jake Kosek, *The Nature of the Bees: On the New Uses of the Honeybee*
 
-**Week 15**
+**Week 15**: Post - Humanity continued.
 
 * Stephen Helmreich, *Alien Ocean: Anthropological Voyages in Microbial Seas*
 * Jussi Parikka, *Insect Media* 

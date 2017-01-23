@@ -112,7 +112,7 @@ http://www.rand.org/pubs/monograph_reports/MR880.html
 
 **Week 12**
 
-* Brian Larkin, *Signal and Noise: Media, Infrastructure, and Urban Cuture in Nigeria.
+* Brian Larkin, *Signal and Noise: Media, Infrastructure, and Urban Cuture in Nigeria.*
 
 **Week 13**
 
@@ -127,6 +127,7 @@ http://www.rand.org/pubs/monograph_reports/MR880.html
 **Week 15**
 
 * Stephen Helmreich, *Alien Ocean: Anthropological Voyages in Microbial Seas*
+
 
 
 

@@ -42,30 +42,26 @@ We will make heavy use of technology in this class.  By the end of the class we 
 **Week 2**: 
 
 * Stephen Kern, *The Culture of Time and Space 1880 - 1914*, Cambridge, Mass.: Chapter 1 and Chapter 6
-* Erik van der Vleuten, *Infrastructures and Societal Change: A View
-from the Large Technical Systems Field*, Technology Analysis & Strategic
-Management 16:3 (2004), 395–414
 * Rem Koolhaus, *Delerious*
 * Stephen Otterman, *The Panorama* - introduction
 
 **Week 3**
 
-* Erwin Panofsky, *Perspective as Symbolic Form*
-* Alan Sekula *The Body and the Archive*
+* Jonathan Crary *Techniques of the Observer*
 * Walter Benjamin, *The Work of Art in the Age of Mechanical Reproduction*
 
 **Week 4**
 
 * Marshall MchLuhan, *Understanding Media* - Introduction, Medium is the Message, Media Hot and Cold
 * Laura Mulvey, *Visual Pleasure and Narrative Cinema* 
-Proposals due in class.
+* **Proposals due in class**.
 
 **Week 5**
 
-* Paul Edwards, *The Closed World: Computers and the Politics of Discourse in Cold
-War America*, ch. 1-4.
-* Manuel Delanda, *War in the Age of Intelligent Machines*, chp tbd.
-* Peter Galison, Ontology of the Enemy
+* Lorraine Daston and Peter Galison, *Objectivity*, (selections from book)
+* Kuriyama, Shigehisa. *The Expressiveness of Colors.* In The Expressiveness of the Body and
+the Divergence of Greek and Chinese Medicine, 153-192.
+* Henning Schmidgen, *Pictures, Preparations, and Living Processes. The Production of Immediate Visual Perception in late-19th-Century Physiology.* In: Journal of the History of Biology, Jg. 37 (2004)
 
 **Week 6**
 
@@ -75,8 +71,8 @@ War America*, ch. 1-4.
 
 **Week 7**
 
-* Jonathan Crary, *Techniques of the Observer*
-* Daston and Galison, *Objectivity* introduction and chapter 1
+* Christopher Otter, *The Victorian Eye: A Political History of Light and Vision in Britain, 1800-1910,* (Chicago: University of Chicago, 2008)
+* Alan Sekula *The Body and the Archive*
 
 **Week 8**
 
@@ -87,23 +83,13 @@ War America*, ch. 1-4.
 
 **Week 9**
 
-* Ceruzzi,	Paul,	*From	Scientific	Instrument	to	Everyday	Appliance:	the	
-Emergence	of	Personal	Computers,	1970-77,*	History	and	Technology
-13(1996):1-31.
-* Turkle, Sherry. 1982. *The Subjective Computer: A Study in the Psychology of Personal Computation.* Social
-Studies of Science 12 (2):173-205
-* John	Agar,	*What	Difference	Did	Computers	Make?* Social	Studies	of	Science,	
-36/6,	2006:	869-907.
+* Chaudhary, Afterimage of Empire 
+* Brian Larkin, *Signal and Noise: Media, Infrastructure, and Urban Culture in Nigeria*. intro, chp 1 -3.
 
 **Week 10**
 
-* Paul Edwards, *A Vast Machine* chs. 7 (skim technical parts), 11-
-13, 15, conclusion; 
-* Donald Mackenzie, *Mechanizing proof: computing, risk, and trust.* , ch. 4. 
-* John	Arquilla	and	David	Ronfeldt,		*Cyberwar	Is	Coming!*	and	Bruce	D.	
-Berkowitz,	“Warfare	in	the	Information	Age”	in	In	Athena’s	Camp:	
-Preparing	for	Conflict	in	the	Information	Age	(1997)	at	
-http://www.rand.org/pubs/monograph_reports/MR880.html
+* Friedrich Kittler, *Gramophone, Film, Typewriter*
+* Hillel Schwartz, *Making Noise*
 
 **Week 11**
 
@@ -116,6 +102,7 @@ http://www.rand.org/pubs/monograph_reports/MR880.html
 **Week 13**
 
 * Keller Easterling, *Extrastatecraft*
+* Eyal Weisman, *Hollowland*
 
 **Week 14**
 
@@ -126,6 +113,7 @@ http://www.rand.org/pubs/monograph_reports/MR880.html
 **Week 15**
 
 * Stephen Helmreich, *Alien Ocean: Anthropological Voyages in Microbial Seas*
+* Jussi Parikka, *Insect Media* 
 
 
 

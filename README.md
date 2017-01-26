@@ -9,6 +9,7 @@ Supplementary materials for:
 * Supplementary activities for NYU Quantitative Reasoning
 
 Notebooks available with **Binder** online:
+
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/jfkoehler/jfkoehler.github.io)
 
 

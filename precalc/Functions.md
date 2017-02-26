@@ -10,17 +10,28 @@ Week 1
 
 ---
 
-**Readings**:
+**Readings**: Textbook pages ...
 
-- Davis and Hersh, *Mathematical Models*
-- Sequences and Interest Notes
+**Watch**:
+
+Eames Video
+
+MAA Video?
+
+Khan Academy
+
+---
+
+**NOTES**:
+
+- Function Definition
+
+- Examples and Applications
+
+- Functions in Python
+
+- Graphs, Tables, Formulas, and Words in Python
 
 ---
 
-**Assignment**:
-
-From Class: Summarize the different kinds of functions examined in class.  Give an example of each kind in the form of an equation, table, graph, and verbal statement.
-
-For Homework: Problem Set I.
-
----
+**Extras**

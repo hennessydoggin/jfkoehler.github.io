@@ -1,4 +1,4 @@
-Week 1
+Section 1: Functions
 ---
 
 **Goals**:
